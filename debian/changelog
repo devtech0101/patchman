@@ -1,4 +1,4 @@
-patchman (1.2.15-1) UNRELEASED; urgency=medium
+patchman (1.2.16-1) UNRELEASED; urgency=medium
 
   [ Bolol ]
   * use full path for patchman-client (#174)
@@ -60,8 +60,9 @@ patchman (1.2.15-1) UNRELEASED; urgency=medium
   * auto-commit to update version skip-checks: true
   * auto-commit to update version skip-checks: true
   * auto-commit to update version skip-checks: true
+  * auto-commit to update version skip-checks: true
 
- -- Marcus Furlong <furlongm@gmail.com>  Thu, 11 Feb 2021 23:28:49 +0000
+ -- Marcus Furlong <furlongm@gmail.com>  Fri, 12 Feb 2021 03:15:47 +0000
 
 patchman (1.2.5-1) stable; urgency=medium
 
